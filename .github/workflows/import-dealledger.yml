@@ -1,0 +1,28 @@
+name: Acquisition HQ - Free DealLedger Review Feed
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 15 * * 1' # Monday 15:00 UTC; UTC does not track daylight saving
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate existing published listings
+        run: python scripts/validate_listings.py
+      - name: Import review-only leads
+        run: python scripts/import_dealledger.py
+      - name: Commit review queue only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dealledger_review.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update DealLedger review-only leads'
+            git push
+          fi
