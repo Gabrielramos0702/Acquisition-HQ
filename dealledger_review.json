@@ -1,0 +1,1162 @@
+{
+  "source": "DealLedger CC0 public broker-direct listings",
+  "source_url": "https://raw.githubusercontent.com/jeffsosville/dealledger/main/data/public/listings.csv",
+  "generated_at_utc": "2026-11-19T22:20:50+00:00",
+  "status": "REVIEW_ONLY_NOT_PUBLISHED",
+  "note": "City shortlist is approximate; operating age is unknown. Do not auto-add to listings.json.",
+  "count": 64,
+  "leads": [
+    {
+      "id": "dealledger-b96ef091c509916d",
+      "name": "Professional Networking Franchise Opportunity | $35, 000",
+      "price": 35000.0,
+      "years": null,
+      "industry": "other",
+      "location": "AUSTIN, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-221951885/",
+      "dealledger_url": "https://dealledger.org/listing/1146205253",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:ac18f3e426cea5f9",
+      "name": "Mission Foods Route - Austin, TX",
+      "price": 50000.0,
+      "years": null,
+      "industry": "delivery_route",
+      "location": "Austin, TX",
+      "cash": 60812.0,
+      "link": "https://www.routesforsale.net/mission-foods-route-for-sale-austin-texas.html",
+      "dealledger_url": "https://dealledger.org/listing/903108954",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-234717f4b6d91dc1",
+      "name": "Business for Sale in Austin, TX",
+      "price": 59500.0,
+      "years": null,
+      "industry": "other",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-192450384/",
+      "dealledger_url": "https://dealledger.org/listing/1030132393",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-0d3a4440f560996a",
+      "name": "Turnkey Upscale Nail Salon",
+      "price": 95000.0,
+      "years": null,
+      "industry": "other",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-209456048/",
+      "dealledger_url": "https://dealledger.org/listing/950158702",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-d39e90fe548e1875",
+      "name": "Boxing Gym For Sale",
+      "price": 100000.0,
+      "years": null,
+      "industry": "technology",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-209595155/",
+      "dealledger_url": "https://dealledger.org/listing/1007351374",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:24051393ba30299b",
+      "name": "Campbell’s Snacks Route - Austin, TX",
+      "price": 135000.0,
+      "years": null,
+      "industry": "delivery_route",
+      "location": "Austin, TX",
+      "cash": 40728.0,
+      "link": "https://www.routesforsale.net/campbells-snacks-route-austin-tx.html",
+      "dealledger_url": "https://dealledger.org/listing/1068012946",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-ef96f51d24e51adf",
+      "name": "Event Service Company With Repeat Clients",
+      "price": 199900.0,
+      "years": null,
+      "industry": "other",
+      "location": "Austin, TX",
+      "cash": 114685.0,
+      "link": "https://tntmergers.com/listing/event-service-company-with-repeat-clients/",
+      "dealledger_url": "https://dealledger.org/listing/1032994976",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-6021df89e0cd456d",
+      "name": "Turnkey Pet Care - W-2 Team - Seller Finance",
+      "price": 226000.0,
+      "years": null,
+      "industry": "other",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-221061123/",
+      "dealledger_url": "https://dealledger.org/listing/1006209540",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-2583c0c58f97cbe8",
+      "name": "Yoga Studio For Sale",
+      "price": 260000.0,
+      "years": null,
+      "industry": "healthcare",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-209358534/",
+      "dealledger_url": "https://dealledger.org/listing/1055372998",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-7670071b56e26067",
+      "name": "Turnkey- Boba Franchise – 2 Locations Seller Finance",
+      "price": 305000.0,
+      "years": null,
+      "industry": "retail",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-220176745/",
+      "dealledger_url": "https://dealledger.org/listing/1152007763",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-92ceb6f9e187a934",
+      "name": "Austin, TX",
+      "price": 400000.0,
+      "years": null,
+      "industry": "technology",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://progressivepracticesales.com/austin-texas/",
+      "dealledger_url": "https://dealledger.org/listing/957233187",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-c17457d6dcd6a7b8",
+      "name": "Established Premium Cat Boarding & Grooming Business – North Austin",
+      "price": 600000.0,
+      "years": null,
+      "industry": "retail",
+      "location": "Austin, TX",
+      "cash": 40000.0,
+      "link": "https://tylasvg.com/listing/established-premium-cat-boarding-grooming-business-north-austin/",
+      "dealledger_url": "https://dealledger.org/listing/909223122",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-463904f392bce71e",
+      "name": "Gas Station 1Hr from Austin,TX",
+      "price": 700000.0,
+      "years": null,
+      "industry": "other",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://www.reputedbrokerage.com/property/gas-station-1hr-from-austintx/",
+      "dealledger_url": "https://dealledger.org/listing/935602057",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-33524cbe4dccf949",
+      "name": "Law Firm M & A",
+      "price": 800000.0,
+      "years": null,
+      "industry": "other",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://griggsbusinessbrokers.com/featured-listings",
+      "dealledger_url": "https://dealledger.org/listing/1017571365",
+      "last_seen": "2026-11-01",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-9f4033d4c586668c",
+      "name": "$840,000 Revenue Austin (Northwest), Texas Tax and Accounting Practice",
+      "price": 840000.0,
+      "years": null,
+      "industry": "technology",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://acctsales.com/listing/840000-revenue-austin-northwest-texas-tax-and-accounting-practice/",
+      "dealledger_url": "https://dealledger.org/listing/1023326897",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-c384308fc5578a83",
+      "name": "Valuation Is a Moving Target",
+      "price": 900000.0,
+      "years": null,
+      "industry": "other",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://www.rpmshopsales.com/valuation-is-a-moving-target/",
+      "dealledger_url": "https://dealledger.org/listing/1060346861",
+      "last_seen": "2026-11-12",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-f07a44a840af2c55",
+      "name": "Landscaping & Garden Maintenance Business For Sale",
+      "price": 975000.0,
+      "years": null,
+      "industry": "landscaping",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-206121408/",
+      "dealledger_url": "https://dealledger.org/listing/1127220463",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:d8896f1575b57007",
+      "name": "567 - SBA Pre-Approved Established Pool Construction Company",
+      "price": 1400000.0,
+      "years": null,
+      "industry": "pool_service",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://vrsanantonio.com/listing/567-sba-pre-approved-established-pool-construction-company/",
+      "dealledger_url": "https://dealledger.org/listing/1044334548",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-5ff3327db4346b2a",
+      "name": "Allstate Agency Opportunity in the Texas Hill Country Near Austin",
+      "price": 1550693.0,
+      "years": null,
+      "industry": "other",
+      "location": "Austin, TX",
+      "cash": null,
+      "link": "https://agencyforsale.com/listings/e64d1d58-e494-4c2d-ba50-55c89b2de415",
+      "dealledger_url": "https://dealledger.org/listing/910316651",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-add252b583d601e6",
+      "name": "Multiple Provider Internal Medicine Practice",
+      "price": 1600000.0,
+      "years": null,
+      "industry": "other",
+      "location": "Austin, TX",
+      "cash": 520000.0,
+      "link": "https://tinsleymedicalpracticebrokers.com/practice/multiple-provider-internal-medicine-practice-for-sale-in-san-antonio/",
+      "dealledger_url": "https://dealledger.org/listing/997530508",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-7d81368d76299abd",
+      "name": "Hair Salon Space and Equipment For Sale",
+      "price": 50000.0,
+      "years": null,
+      "industry": "electrical",
+      "location": "Bee Cave, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-187070286-sale/",
+      "dealledger_url": "https://dealledger.org/listing/1003528601",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-7a1aec338d1cf9fd",
+      "name": "Independent Personal Training Gym – Cedar Park, TX",
+      "price": 60000.0,
+      "years": null,
+      "industry": "technology",
+      "location": "Cedar Park, TX",
+      "cash": null,
+      "link": "https://www.fmconsulting.net/gymsforsale/ads/independent-personal-training-gym-cedar-park-tx/",
+      "dealledger_url": "https://dealledger.org/listing/961768369",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-94757046963f2d96",
+      "name": "Independent Personal Training Gym For Sale",
+      "price": 60000.0,
+      "years": null,
+      "industry": "technology",
+      "location": "Cedar Park, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-225744448/",
+      "dealledger_url": "https://dealledger.org/listing/946900059",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-b864d9fafb5fcf53",
+      "name": "Established Hair Salon",
+      "price": 70000.0,
+      "years": null,
+      "industry": "other",
+      "location": "Cedar Park, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-221795530/",
+      "dealledger_url": "https://dealledger.org/listing/929253223",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:1eca5629e3000236",
+      "name": "Texas Bar for Sale with Beer and Wine License!",
+      "price": 169000.0,
+      "years": null,
+      "industry": "restaurant",
+      "location": "Cedar Park, TX",
+      "cash": 88722.0,
+      "link": "https://www.wesellrestaurants.com/restaurant-for-sale/cedar-park-bar-business-for-sale-with-patio-seating/32855",
+      "dealledger_url": "https://dealledger.org/listing/944106255",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:70fe0a18d69eae29",
+      "name": "Georgetown, TX Pizza Franchise for Sale, Fully Equipped",
+      "price": 249000.0,
+      "years": null,
+      "industry": "restaurant",
+      "location": "Georgetown, TX",
+      "cash": null,
+      "link": "https://www.wesellrestaurants.com/restaurant-for-sale/pizza-franchise-for-sale-in-georgetown-tx-fully-equipped/38857",
+      "dealledger_url": "https://dealledger.org/listing/1029636888",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-6d05c541524eacab",
+      "name": "Established Liquor Store -ASSET Sale",
+      "price": 70000.0,
+      "years": null,
+      "industry": "retail",
+      "location": "Liberty Hill, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-208630298/",
+      "dealledger_url": "https://dealledger.org/listing/1168010957",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-a9d8bd1a8d535d03",
+      "name": "Lockhart Car Care Lube for Sale - Lockhart, TX",
+      "price": 1500000.0,
+      "years": null,
+      "industry": "other",
+      "location": "Lockhart, TX",
+      "cash": null,
+      "link": "https://carwashtraders.com/carwash/tx/lube/lockhart-car-care-lube-for-sale-lockhart-tx/",
+      "dealledger_url": "https://dealledger.org/listing/972897496",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-ff7b9057aa7c25fb",
+      "name": "Footprints Floors Franchise for sale in Round Rock, Texas",
+      "price": 200000.0,
+      "years": null,
+      "industry": "other",
+      "location": "Round Rock, TX",
+      "cash": null,
+      "link": "https://franchiseflippers.com/listing/47384AB7/footprints-floors-franchise-for-sale-in-round-rock-texas/",
+      "dealledger_url": "https://dealledger.org/listing/1166678468",
+      "last_seen": "2026-11-05",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-852094bf594aa2ca",
+      "name": "Name Brand Cosmetics Store for Sale",
+      "price": 275000.0,
+      "years": null,
+      "industry": "retail",
+      "location": "Round Rock, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-221724209/",
+      "dealledger_url": "https://dealledger.org/listing/1105184783",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-d7407f3c9bbce695",
+      "name": "Established Restoration Franchise in Growing Texas Market",
+      "price": 295000.0,
+      "years": null,
+      "industry": "plumbing",
+      "location": "Round Rock, TX",
+      "cash": 40000.0,
+      "link": "https://tylasvg.com/listing/established-restoration-franchise-in-growing-texas-market/",
+      "dealledger_url": "https://dealledger.org/listing/967448966",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:ffac244c1f5e5515",
+      "name": "Own Two Austin TX Franchises for sale Restaurants w/$2 Million Sales",
+      "price": 645000.0,
+      "years": null,
+      "industry": "restaurant",
+      "location": "Round Rock, TX",
+      "cash": 197450.0,
+      "link": "https://www.wesellrestaurants.com/restaurant-for-sale/own-two-austin-tx-franchises-for-sale-restaurants-w2-million-sales/41990",
+      "dealledger_url": "https://dealledger.org/listing/1049973730",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-d20cd212645d2413",
+      "name": "Franchise for sale in Round Rock, Texas",
+      "price": 650000.0,
+      "years": null,
+      "industry": "retail",
+      "location": "Round Rock, TX",
+      "cash": null,
+      "link": "https://franchiseflippers.com/listing/3BF9D680/hiit-boutique-fitness-franchise-for-sale-in-round-rock-texas/",
+      "dealledger_url": "https://dealledger.org/listing/979313435",
+      "last_seen": "2026-11-05",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-1d8c96f0d2c7d928",
+      "name": "TGA Premier Sports Franchise for sale in San Antonio, Texas",
+      "price": 39000.0,
+      "years": null,
+      "industry": "other",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://franchiseflippers.com/listing/520455/tga-premier-sports-franchise-for-sale-in-san-antonio-texas/",
+      "dealledger_url": "https://dealledger.org/listing/1075101106",
+      "last_seen": "2026-11-05",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-1d2e4acb01df4f6f",
+      "name": "San Antonio ATM Portfolio for Sale $45,000!",
+      "price": 45000.0,
+      "years": null,
+      "industry": "atm",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://atmbrokerage.com/atm-route-for-sale/san-antonio-tx-6-atm-route-45k/",
+      "dealledger_url": "https://dealledger.org/listing/1131742142",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:1fdf34514ca10d72",
+      "name": "Texas Food Truck for Sale with $47,000 in Owner Earnings!!",
+      "price": 69000.0,
+      "years": null,
+      "industry": "restaurant",
+      "location": "San Antonio, TX",
+      "cash": 87047.0,
+      "link": "https://www.wesellrestaurants.com/restaurant-for-sale/profitable-food-truck-for-sale-with-119000-in-owner-earnings/26253",
+      "dealledger_url": "https://dealledger.org/listing/1104521931",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-6cd4b73a8d89b6cb",
+      "name": "Burn Boot Camp Franchise for sale in San Antonio, Texas",
+      "price": 135000.0,
+      "years": null,
+      "industry": "other",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://franchiseflippers.com/listing/431644/burn-boot-camp-franchise-for-sale-in-san-antonio-texas/",
+      "dealledger_url": "https://dealledger.org/listing/1042113307",
+      "last_seen": "2026-11-05",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:f722d14be127ac4f",
+      "name": "588 - Established Health and Nutrition Store",
+      "price": 135000.0,
+      "years": null,
+      "industry": "retail",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://vrsanantonio.com/listing/588-established-health-and-nutrition-store/",
+      "dealledger_url": "https://dealledger.org/listing/923698890",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:624a48630322c9bc",
+      "name": "Veteran Owned Baseball Softball Gloves",
+      "price": 175000.0,
+      "years": null,
+      "industry": "retail",
+      "location": "San Antonio, TX",
+      "cash": 86500.0,
+      "link": "https://www.sunbeltnetwork.com/san-antonio-tx/buy-a-business/listings/listing-details/veteran-owned-baseball-softball-gloves-59972/",
+      "dealledger_url": "https://dealledger.org/listing/979018955",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-c6b3263267879f51",
+      "name": "The Maids Franchise for sale in San Antonio, Texas",
+      "price": 189000.0,
+      "years": null,
+      "industry": "cleaning",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://franchiseflippers.com/listing/323206/the-maids-franchise-for-sale-in-san-antonio-texas/",
+      "dealledger_url": "https://dealledger.org/listing/1123212279",
+      "last_seen": "2026-11-05",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-a234dcc98f1275e1",
+      "name": "Donut Franchise for Sale in San Antonio, Texas. Has Drive-thru",
+      "price": 200000.0,
+      "years": null,
+      "industry": "construction",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://eatsbroker.com/listing/donut-franchise-for-sale-in-san-antonio-texas-has-drive-thru/",
+      "dealledger_url": "https://dealledger.org/listing/1117883537",
+      "last_seen": "2026-11-15",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:cc1e226575c9da3c",
+      "name": "Well Established Tree Removal Trimming",
+      "price": 200000.0,
+      "years": null,
+      "industry": "landscaping",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://www.sunbeltnetwork.com/san-antonio-tx/buy-a-business/listings/listing-details/well-established-tree-removal-trimming-59015/",
+      "dealledger_url": "https://dealledger.org/listing/1016242677",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:9ac696ebab798ee9",
+      "name": "569 - B2B Printing Service Provider",
+      "price": 285000.0,
+      "years": null,
+      "industry": "other",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://vrsanantonio.com/listing/569-b2b-printing-service-provider/",
+      "dealledger_url": "https://dealledger.org/listing/1156019314",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-c839580bb96a6467",
+      "name": "Turnkey Insurance Agency -Seller Finance",
+      "price": 299000.0,
+      "years": null,
+      "industry": "other",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-219737469/",
+      "dealledger_url": "https://dealledger.org/listing/1075276161",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:4959fce6cff7c0f9",
+      "name": "Campbell’s Snacks Route - San Antonio, TX",
+      "price": 315000.0,
+      "years": null,
+      "industry": "delivery_route",
+      "location": "San Antonio, TX",
+      "cash": 83304.0,
+      "link": "https://www.routesforsale.net/campbells-snacks-route-san-antonio-tx.html",
+      "dealledger_url": "https://dealledger.org/listing/945547039",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-178d44847f6d2b12",
+      "name": "Mosquito Shield Franchise for sale in San Antonio, Texas",
+      "price": 325000.0,
+      "years": null,
+      "industry": "other",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://franchiseflippers.com/listing/591301/mosquito-shield-franchise-for-sale-in-san-antonio-texas/",
+      "dealledger_url": "https://dealledger.org/listing/939773819",
+      "last_seen": "2026-11-05",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-4e8052b7cb3cc114",
+      "name": "Profitable Local Bar with Multiple Income Streams (Motivated Seller)",
+      "price": 400000.0,
+      "years": null,
+      "industry": "restaurant",
+      "location": "San Antonio, TX",
+      "cash": 273600.0,
+      "link": "https://pgpadvisory.com/listing/profitable-local-bar-with-multiple-income-streams-motivated-seller/",
+      "dealledger_url": "https://dealledger.org/listing/1159035165",
+      "last_seen": "2026-11-15",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-fea98ec35b5b40bc",
+      "name": "Increase the Value of Your Business: 5 Levers to Pull Before You Sell",
+      "price": 400000.0,
+      "years": null,
+      "industry": "other",
+      "location": "San Antonio, TX",
+      "cash": 1125.0,
+      "link": "https://vrsanantonio.com/increase-the-value-of-your-business/",
+      "dealledger_url": "https://dealledger.org/listing/1032626284",
+      "last_seen": "2026-10-09",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-1717aa0259f36060",
+      "name": "That 1 Painter Franchise for sale in San Antonio, Texas",
+      "price": 499500.0,
+      "years": null,
+      "industry": "other",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://franchiseflippers.com/listing/658569/that-1-painter-franchise-for-sale-in-san-antonio-texas/",
+      "dealledger_url": "https://dealledger.org/listing/983443749",
+      "last_seen": "2026-11-05",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-73712cc703b98c18",
+      "name": "Pet Butler Franchise for sale in San Antonio, Texas",
+      "price": 500000.0,
+      "years": null,
+      "industry": "other",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://franchiseflippers.com/listing/8522B072/pet-butler-franchise-for-sale-in-san-antonio-texas/",
+      "dealledger_url": "https://dealledger.org/listing/1066812686",
+      "last_seen": "2026-11-05",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:acc2e94c823bad3d",
+      "name": "Physical Therapy Aquatic Rehab",
+      "price": 531000.0,
+      "years": null,
+      "industry": "healthcare",
+      "location": "San Antonio, TX",
+      "cash": 191900.0,
+      "link": "https://www.sunbeltnetwork.com/san-antonio-tx/buy-a-business/listings/listing-details/physical-therapy-aquatic-rehab-59215/",
+      "dealledger_url": "https://dealledger.org/listing/1121183105",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:05f5a90de2ccd57a",
+      "name": "High Tech Entertainment Vr Rcaxes",
+      "price": 599000.0,
+      "years": null,
+      "industry": "amusement",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://www.sunbeltnetwork.com/san-antonio-tx/buy-a-business/listings/listing-details/high-tech-entertainment-vr-rcaxes-58635/",
+      "dealledger_url": "https://dealledger.org/listing/1089886127",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-e4fd963bc6a82112",
+      "name": "2 Revenue Streams, Absentee Run | Junk Franchise",
+      "price": 708000.0,
+      "years": null,
+      "industry": "technology",
+      "location": "San Antonio, TX",
+      "cash": 160000.0,
+      "link": "https://companysellers.com/businesses-for-sale/7045/",
+      "dealledger_url": "https://dealledger.org/listing/968185786",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:b4806f256cffe40f",
+      "name": "Tire Company Auto Repair",
+      "price": 800000.0,
+      "years": null,
+      "industry": "automotive",
+      "location": "San Antonio, TX",
+      "cash": 233700.0,
+      "link": "https://www.sunbeltnetwork.com/san-antonio-tx/buy-a-business/listings/listing-details/tire-company-auto-repair-60088/",
+      "dealledger_url": "https://dealledger.org/listing/919525092",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-bce9a97b08c4803b",
+      "name": "Auto Repair Business w/ Real Estate",
+      "price": 1042000.0,
+      "years": null,
+      "industry": "automotive",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-187071405/",
+      "dealledger_url": "https://dealledger.org/listing/921585891",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:2a3db6fc45544e94",
+      "name": "534 - Established Fence Company",
+      "price": 1100000.0,
+      "years": null,
+      "industry": "construction",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://vrsanantonio.com/listing/534-established-fence-company/",
+      "dealledger_url": "https://dealledger.org/listing/1147398577",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-14781b2f38d1ca4f",
+      "name": "Auto Service Business South Of San Antonio Texas",
+      "price": 1500000.0,
+      "years": null,
+      "industry": "automotive",
+      "location": "San Antonio, TX",
+      "cash": 200000.0,
+      "link": "https://www.biz-match.com/listings/auto-service-business-south-of-san-antonio-texas",
+      "dealledger_url": "https://dealledger.org/listing/997316387",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-b4371958690f4d1a",
+      "name": "NDS Self-Serve Car Wash Portfolio for Sale - San Antonio, TX",
+      "price": 1700000.0,
+      "years": null,
+      "industry": "automotive",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://carwashtraders.com/carwash/tx/self-service/nds-self-serve-car-wash-portfolio-for-sale-san-antonio-tx/",
+      "dealledger_url": "https://dealledger.org/listing/960027362",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:3c72a1e09058e075",
+      "name": "562 - Established Full-Service HVAC Company",
+      "price": 1700000.0,
+      "years": null,
+      "industry": "hvac",
+      "location": "San Antonio, TX",
+      "cash": null,
+      "link": "https://vrsanantonio.com/listing/562-established-full-service-hvac-company-30-years-fast-growing/",
+      "dealledger_url": "https://dealledger.org/listing/1145196250",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:6ef5592bb57f444f",
+      "name": "Email Marketing Lead Generation Business",
+      "price": 1800000.0,
+      "years": null,
+      "industry": "technology",
+      "location": "San Antonio, TX",
+      "cash": 572400.0,
+      "link": "https://www.sunbeltnetwork.com/san-antonio-tx/buy-a-business/listings/listing-details/email-marketing-lead-generation-business-60018/",
+      "dealledger_url": "https://dealledger.org/listing/1149815541",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-b1694738273a5dbd",
+      "name": "Wash Me Car Salon | Full-Service Wash & Lube | San Antonio, TX",
+      "price": 1995000.0,
+      "years": null,
+      "industry": "other",
+      "location": "San Antonio, TX",
+      "cash": 81000.0,
+      "link": "https://carwashtraders.com/carwash/tx/full-service-and-lube/wash-me-car-salon-full-service-wash-lube-san-antonio-tx/",
+      "dealledger_url": "https://dealledger.org/listing/1038399527",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-bf9bbe21aab51296",
+      "name": "Liquor store w/ buildout & inventory for sale-Seller Financing",
+      "price": 75000.0,
+      "years": null,
+      "industry": "retail",
+      "location": "San Marcos, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-222158778/",
+      "dealledger_url": "https://dealledger.org/listing/1025615956",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-spec:7c6b942fcfb1158e",
+      "name": "Turnkey Restaurant for Sale Near Texas State - 50% Owner Financing!",
+      "price": 299000.0,
+      "years": null,
+      "industry": "restaurant",
+      "location": "San Marcos, TX",
+      "cash": 14120.0,
+      "link": "https://www.wesellrestaurants.com/restaurant-for-sale/texas-restaurant-for-sale-in-san-marcos-is-fully-equipped/42891",
+      "dealledger_url": "https://dealledger.org/listing/1145315755",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    },
+    {
+      "id": "dealledger-a3c9e50f4d88f479",
+      "name": "Business for Sale in Wimberley, TX",
+      "price": 150000.0,
+      "years": null,
+      "industry": "technology",
+      "location": "Wimberley, TX",
+      "cash": null,
+      "link": "https://www.crebbgroup.com/opportunities/business-brokerage-listings/expb-203090305/",
+      "dealledger_url": "https://dealledger.org/listing/983990763",
+      "last_seen": "2026-11-16",
+      "review_status": "NEEDS_REVIEW",
+      "review_reasons": [
+        "Business operating age not supplied",
+        "Distance from downtown Austin not verified",
+        "Broker claims and listing availability not independently verified"
+      ]
+    }
+  ]
+}
