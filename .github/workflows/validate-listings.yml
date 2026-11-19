@@ -1,0 +1,30 @@
+name: Acquisition HQ - Weekly Listing Validation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 15 * * 0'
+
+permissions:
+  contents: read
+
+jobs:
+  validate-listings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate business listings
+        run: |
+          python scripts/validate_listings.py
+
+      - name: Confirm completion
+        run: |
+          echo "Acquisition HQ listing validation completed."
