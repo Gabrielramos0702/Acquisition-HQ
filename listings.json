@@ -1,5 +1,96 @@
 {
-  "updated_at": null,
-  "source_note": "No permitted live source configured. Do not add invented listings.",
-  "listings": []
+  "updated_at": "2026-11-19",
+  "source_note": "Research leads from public seller/broker advertisements, checked 2026-11-19. Listing availability, financial figures, precise distance, and operating history are not independently verified. Cash flow is seller-advertised and not net income after financing or management. No automatic source is connected.",
+  "listings": [
+    {
+      "id": "painting-3744357",
+      "name": "High-Review Painting and Refinishing",
+      "price": 250000,
+      "years": 11,
+      "industry": "Painting & refinishing",
+      "location": "Austin, TX",
+      "cash": 112786,
+      "link": "https://us.businessesforsale.com/us/high-review-painting-and-refinishing-business.aspx"
+    },
+    {
+      "id": "staging-4006222",
+      "name": "Award-Winning Home Staging Company",
+      "price": 800000,
+      "years": 9,
+      "industry": "Home staging",
+      "location": "Austin, TX",
+      "cash": 271430,
+      "link": "https://us.businessesforsale.com/us/award-winning-home-staging-company.aspx"
+    },
+    {
+      "id": "testing-3996463",
+      "name": "Mobile Drug and Alcohol Lab Testing",
+      "price": 367000,
+      "years": 13,
+      "industry": "Testing services",
+      "location": "Austin, TX",
+      "cash": 293800,
+      "link": "https://us.businessesforsale.com/us/mobile-drug-and-alcohol-lab-testing-in-austin.aspx"
+    },
+    {
+      "id": "medicine-3928531",
+      "name": "Established Family Medicine Practice",
+      "price": 850000,
+      "years": 32,
+      "industry": "Medical practice",
+      "location": "Central Texas (~30 miles from Austin)",
+      "cash": 485430,
+      "link": "https://us.businessesforsale.com/us/established-family-medicine-practice-in-central-texas.aspx"
+    },
+    {
+      "id": "restoration-4004887",
+      "name": "Austin Water and Fire Restoration Franchise",
+      "price": 525000,
+      "years": 17,
+      "industry": "Restoration",
+      "location": "Austin, TX",
+      "cash": 143358,
+      "link": "https://us.businessesforsale.com/us/austin-water-and-fire-restoration-franchise.aspx"
+    },
+    {
+      "id": "auto-3976729",
+      "name": "Premium Auto Detailing \u2014 Semi Absentee",
+      "price": 350000,
+      "years": 11,
+      "industry": "Auto detailing",
+      "location": "Austin, TX",
+      "cash": 122077,
+      "link": "https://us.businessesforsale.com/us/premium-auto-detailing-business-semi-absentee.aspx"
+    },
+    {
+      "id": "lawn-3995846",
+      "name": "Established Lawn Care Company",
+      "price": 250000,
+      "years": 13,
+      "industry": "Landscaping",
+      "location": "Williamson County, TX",
+      "cash": 114879,
+      "link": "https://us.businessesforsale.com/us/established-lawn-care-co-high-growth-area.aspx"
+    },
+    {
+      "id": "pet-3997207",
+      "name": "Manager-Run Pet Care Company",
+      "price": 226000,
+      "years": 11,
+      "industry": "Pet services",
+      "location": "North Austin / Round Rock, TX",
+      "cash": null,
+      "link": "https://us.businessesforsale.com/us/turnkey-pet-care-w-2-team-seller-finance.aspx"
+    },
+    {
+      "id": "auto-3927390",
+      "name": "Automotive Detailing Business",
+      "price": 420000,
+      "years": 9,
+      "industry": "Auto detailing",
+      "location": "Austin, TX",
+      "cash": 161712,
+      "link": "https://us.businessesforsale.com/us/automotive-detailing-business-in-austin-texas.aspx"
+    }
+  ]
 }
