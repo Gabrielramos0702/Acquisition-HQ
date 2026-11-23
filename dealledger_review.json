@@ -1,7 +1,7 @@
 {
   "source": "DealLedger CC0 public broker-direct listings",
   "source_url": "https://raw.githubusercontent.com/jeffsosville/dealledger/main/data/public/listings.csv",
-  "generated_at_utc": "2026-11-19T22:20:50+00:00",
+  "generated_at_utc": "2026-11-23T15:52:29+00:00",
   "status": "REVIEW_ONLY_NOT_PUBLISHED",
   "note": "City shortlist is approximate; operating age is unknown. Do not auto-add to listings.json.",
   "count": 64,
